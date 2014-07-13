@@ -71,7 +71,7 @@ github_skip_forks: true
 
 # Twitter
 twitter_user:
-//twitter_tweet_button: true
+#twitter_tweet_button: true
 #Twitter新增 提速优化
 twitter_tweet_count: 0
 twitter_show_replies: false
